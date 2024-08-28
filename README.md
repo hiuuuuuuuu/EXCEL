@@ -3,6 +3,8 @@
 ## Final course project: Creating an executive data summary
 [Final_project_Quarter-One-Report.xlsx](https://github.com/hiuuuuuuuu/EXCEL/blob/main/Final_project_Quarter-One-Report.xlsx)
 
+![image](https://github.com/user-attachments/assets/ed7d85ee-0ec0-4e1e-b215-7eae81a84f32)
+
   ### Case study
 Jamie, at Adventure Works, is attending a management meeting. She has been asked to prepare an Excel worksheet that presents sales figures for the first quarter of the year and compares these figures to the results for the same period in the previous year. 
 
@@ -20,4 +22,4 @@ This worksheet is called Summary and is in the workbook Quarter One Report.xlsx.
 - MONTH and YEAR Functions: Used to extract the month and year from a date value.
 - **IF Function**: Used to check conditions and calculate tax based on the sales amount.
 - **Percentage Calculation**: Used to calculate the percentage growth to compare sales between different years.
-![image](https://github.com/user-attachments/assets/5d6954cb-17e3-459b-88b6-85e905a32705)
+
